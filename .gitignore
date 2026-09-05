@@ -1,0 +1,12 @@
+.env
+
+# datasets / checkpoints (too large for git, and often licensed for hackathon-use only)
+data/
+*.mp4
+*.pt
+*.safetensors
+checkpoints/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
